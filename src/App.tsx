@@ -1,8 +1,9 @@
 import React from 'react'
+import Paint from './Paint'
 
 function App() {
   return (
-    <div>App</div>
+    <div><Paint /></div>
   )
 }
 
